@@ -6,5 +6,7 @@
 
 
 `HTML files:` try the network first, then the cache.
+
 `Other files:` try the cache first, then the network.
+
 `Both:` cache a fresh version if possible.
