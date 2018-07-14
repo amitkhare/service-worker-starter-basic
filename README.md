@@ -10,3 +10,6 @@
 `Other files:` try the cache first, then the network.
 
 `Both:` cache a fresh version if possible.
+
+
+> Ref: https://adactio.com/journal/13540
