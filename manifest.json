@@ -1,0 +1,35 @@
+{
+  "name": "Long App Name",
+  "short_name": "App Name",
+  "icons": [
+    {
+      "src": "/images/logo/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/service-worker-starter-basic/",
+  "display": "standalone",
+  "background_color": "#E8F1F5",
+  "theme_color": "#1989AC"
+}
